@@ -1,7 +1,6 @@
 sen=raw_input("dwse protash")
 sen=list(sen)
 new_sen=[""]*len(sen)
-print sen
 x=0
 for i in range(len(sen)-1):
     flag=0
